@@ -1,16 +1,13 @@
-### Hi there 👋
+Colton
 
-<!--
-**colton-o/colton-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perth West Australia
 
-Here are some ideas to get you started:
+Contact: colton.o@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently teaching/studying and aiming to get into embeded systems programming
+
+Ex game developer - [game-dev portfolio](https://www.coltononderwater.com/)
+
+## Projects
+### [Stewart-Platform](https://github.com/colton-o/stewart-platform)
+- using servo motors and a nrf5340 the goal is to make a platform with 6 degrees of motion
