@@ -4,9 +4,10 @@ Perth West Australia
 
 Contact: colton.o@hotmail.com
 
-Currently teaching/studying and aiming to get into embeded systems programming
+Currently studying software engineering, getting into low level programming
 
-Ex game developer - [game-dev portfolio](https://www.coltononderwater.com/)
+Ex game developer
+portfolio: (https://www.coltononderwater.com/)
 
 ## Projects
 ### [Stewart-Platform](https://github.com/colton-o/stewart_platform)
