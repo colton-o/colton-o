@@ -7,6 +7,7 @@ Contact: colton.o@hotmail.com
 Currently studying software engineering, getting into low level programming
 
 Ex game developer
+
 portfolio: (https://www.coltononderwater.com/)
 
 ## Projects
